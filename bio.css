@@ -10,11 +10,9 @@ p
 {
 	text-align: center;
 }
-block
+textblock
 {
-	margin-left: auto;
-	margin-right: auto;
-	width: 64px;
+	text-align: justify:
 }
 .button
 {
@@ -30,7 +28,7 @@ block
 	padding: 15px 32px;
 	text-align: center;
 	text-decoration: none;
-	display: inline-block;
+	display: inline;
 }
 .one
 {

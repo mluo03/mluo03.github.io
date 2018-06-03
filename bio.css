@@ -1,0 +1,42 @@
+body
+{
+	background-color: #ECE1DF;
+}
+h1
+{
+	text-align: center;
+}
+p
+{
+	text-align: center;
+}
+block
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 64px;
+}
+.button
+{
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+	
+	/*button properties*/
+	font-size: 3em;
+    text-decoration: none;
+    background-color: white;
+	margin: 4px 3px;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+.one
+{
+    color: red;
+}
+.two
+{
+	color: blue;
+}

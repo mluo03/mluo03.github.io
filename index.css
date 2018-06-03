@@ -10,6 +10,11 @@ p
 {
 	text-align: center;
 }
+.disp
+{
+	margin: auto;
+}
+
 .button
 {
     -webkit-appearance: button;
